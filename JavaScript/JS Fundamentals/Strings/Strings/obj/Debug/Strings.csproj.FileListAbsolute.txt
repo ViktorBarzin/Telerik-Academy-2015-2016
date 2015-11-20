@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\bin\Strings.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\bin\Strings.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\bin\Strings.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\obj\Debug\Strings.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Strings\Strings\obj\Debug\Strings.pdb

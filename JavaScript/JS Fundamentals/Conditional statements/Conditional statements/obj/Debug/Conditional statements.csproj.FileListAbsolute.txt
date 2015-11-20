@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\bin\Conditional statements.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\bin\Conditional statements.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\bin\Conditional statements.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\obj\Debug\Conditional statements.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\obj\Debug\Conditional statements.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Conditional statements\Conditional statements\obj\Debug\Conditional statements.pdb

@@ -1,0 +1,66 @@
+﻿body {
+}
+
+table {
+    background-color:#696969;
+    height: 205px;
+    width: 350px;
+    font-family: sans-serif;
+}
+
+.info {
+    font-style:italic;
+    color:white;
+    
+}
+
+#ticketid {
+    color:#a9a9a9;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+.yellow {
+    color:#EEE8AA	;
+}
+a {
+    color:#EEE8AA;
+    text-decoration:none;
+}
+
+    a:hover {
+        background-color:#EEE8AAA;
+        color:#a9a9a9;
+    }
+
+#activesupport {
+    color:red;
+    font-weight:bold;
+    font-size:13.5px;
+}
+
+.color-grey {
+    color:#a9a9a9;
+}
+
+#notanswered {
+    color:#FF8C00;
+}
+
+#status {
+    padding-top: 20px;
+}
+
+#circle {
+    width: 15px;
+    height: 15px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    background:white;
+    display:inline-block;
+    margin-right:2px;
+    background-color:#00CC00;
+}

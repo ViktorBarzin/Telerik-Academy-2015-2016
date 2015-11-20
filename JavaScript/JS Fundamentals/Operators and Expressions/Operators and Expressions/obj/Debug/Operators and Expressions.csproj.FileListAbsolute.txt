@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.pdb

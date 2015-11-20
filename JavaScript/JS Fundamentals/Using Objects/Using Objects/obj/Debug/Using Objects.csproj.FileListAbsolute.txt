@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\bin\Using Objects.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\bin\Using Objects.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\bin\Using Objects.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\obj\Debug\Using Objects.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\obj\Debug\Using Objects.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Using Objects\Using Objects\obj\Debug\Using Objects.pdb

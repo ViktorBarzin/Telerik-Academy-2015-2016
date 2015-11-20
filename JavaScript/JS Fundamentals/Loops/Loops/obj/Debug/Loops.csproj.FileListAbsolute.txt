@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\bin\Loops.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\bin\Loops.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\bin\Loops.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\obj\Debug\Loops.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Loops\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\bin\Semantic HTML.dll.config
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\bin\Semantic HTML.dll
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\bin\Semantic HTML.pdb
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.dll
+C:\Users\Viki\Desktop\Domashni\Semantic HTML\Semantic HTML\obj\Debug\Semantic HTML.pdb

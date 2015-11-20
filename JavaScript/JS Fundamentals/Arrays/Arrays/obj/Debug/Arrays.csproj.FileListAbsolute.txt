@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\bin\Arrays.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\bin\Arrays.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\bin\Arrays.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\obj\Debug\Arrays.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Arrays\Arrays\obj\Debug\Arrays.pdb

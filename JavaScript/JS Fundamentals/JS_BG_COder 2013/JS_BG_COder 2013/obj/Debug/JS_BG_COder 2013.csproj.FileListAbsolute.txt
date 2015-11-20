@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\bin\JS_BG_COder 2013.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\bin\JS_BG_COder 2013.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\bin\JS_BG_COder 2013.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\obj\Debug\JS_BG_COder 2013.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\obj\Debug\JS_BG_COder 2013.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\JS_BG_COder 2013\JS_BG_COder 2013\obj\Debug\JS_BG_COder 2013.pdb

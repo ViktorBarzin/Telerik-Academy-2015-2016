@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\bin\CSS Presentation.dll.config
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\bin\CSS Presentation.dll
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\bin\CSS Presentation.pdb
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.dll
+C:\Users\Viki\Desktop\Domashni\CSS Presentation\CSS Presentation\obj\Debug\CSS Presentation.pdb

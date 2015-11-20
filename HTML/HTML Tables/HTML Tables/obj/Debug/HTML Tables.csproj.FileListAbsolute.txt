@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\bin\HTML Tables.dll.config
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\bin\HTML Tables.dll
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\bin\HTML Tables.pdb
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\obj\Debug\HTML Tables.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\obj\Debug\HTML Tables.dll
+C:\Users\Viki\Desktop\Domashni\HTML Tables\HTML Tables\obj\Debug\HTML Tables.pdb

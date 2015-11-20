@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\bin\Functions.dll.config
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\bin\Functions.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\bin\Functions.pdb
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\obj\Debug\Functions.dll
+C:\Users\Viki\Desktop\Domashni\JavaScript\Functions\Functions\obj\Debug\Functions.pdb

@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\bin\HTML Forms.dll.config
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\bin\HTML Forms.dll
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\bin\HTML Forms.pdb
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\obj\Debug\HTML Forms.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\obj\Debug\HTML Forms.dll
+C:\Users\Viki\Desktop\Domashni\HTML Forms\HTML Forms\obj\Debug\HTML Forms.pdb

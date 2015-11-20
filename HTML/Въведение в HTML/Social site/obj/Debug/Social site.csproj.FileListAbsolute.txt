@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\bin\Social site.dll.config
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\bin\Social site.dll
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\bin\Social site.pdb
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\obj\Debug\Social site.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\obj\Debug\Social site.dll
+C:\Users\Viki\Desktop\Domashni\HTML\Social site\obj\Debug\Social site.pdb

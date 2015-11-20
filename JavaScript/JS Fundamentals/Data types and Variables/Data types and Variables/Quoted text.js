@@ -1,0 +1,1 @@
+﻿var quotedText = '\`\'How you doin\'?\', Joey said\'.';

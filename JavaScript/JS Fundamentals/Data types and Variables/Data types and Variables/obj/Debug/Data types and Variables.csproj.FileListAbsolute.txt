@@ -1,0 +1,6 @@
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\bin\Data types and Variables.dll.config
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\bin\Data types and Variables.dll
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\bin\Data types and Variables.pdb
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.csprojResolveAssemblyReference.cache
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.dll
+C:\Users\Viki\Desktop\Domashni\Data types and Variables\Data types and Variables\obj\Debug\Data types and Variables.pdb
