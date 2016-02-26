@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fire", "Fire\Fire.csproj", "{2F5CEDCF-1C2C-4AD0-A8DF-FA8BCF0A345D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printing", "Printing\Printing.csproj", "{8B60DD3A-E297-438A-9CD4-8772CB0D886A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsToBits", "BitsToBits\BitsToBits.csproj", "{D9A6430E-73B4-48A2-986A-BA876744714D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2F5CEDCF-1C2C-4AD0-A8DF-FA8BCF0A345D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F5CEDCF-1C2C-4AD0-A8DF-FA8BCF0A345D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F5CEDCF-1C2C-4AD0-A8DF-FA8BCF0A345D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B60DD3A-E297-438A-9CD4-8772CB0D886A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B60DD3A-E297-438A-9CD4-8772CB0D886A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B60DD3A-E297-438A-9CD4-8772CB0D886A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B60DD3A-E297-438A-9CD4-8772CB0D886A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9A6430E-73B4-48A2-986A-BA876744714D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A6430E-73B4-48A2-986A-BA876744714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A6430E-73B4-48A2-986A-BA876744714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A6430E-73B4-48A2-986A-BA876744714D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
