@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9A6430E-73B4-48A2-986A-BA876744714D}</ProjectGuid>
+    <ProjectGuid>{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BitsToBits</RootNamespace>
-    <AssemblyName>BitsToBits</AssemblyName>
+    <RootNamespace>Cube</RootNamespace>
+    <AssemblyName>Cube</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

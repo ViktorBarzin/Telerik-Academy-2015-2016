@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printing", "Printing\Printi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitsToBits", "BitsToBits\BitsToBits.csproj", "{D9A6430E-73B4-48A2-986A-BA876744714D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube", "Cube\Cube.csproj", "{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaddyKopper", "SaddyKopper\SaddyKopper.csproj", "{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D9A6430E-73B4-48A2-986A-BA876744714D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9A6430E-73B4-48A2-986A-BA876744714D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9A6430E-73B4-48A2-986A-BA876744714D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E1A61-EE2A-4FF9-B214-F7EFA2FCB090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

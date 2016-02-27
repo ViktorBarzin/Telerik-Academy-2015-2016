@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace BitsToBits
 {
     using Microsoft.Win32;
-    using Wintellect.PowerCollections;
 
     class Program
     {
