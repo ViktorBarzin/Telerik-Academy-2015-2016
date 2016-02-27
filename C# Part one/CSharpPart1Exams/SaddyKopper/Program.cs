@@ -13,7 +13,7 @@ namespace SaddyKopper
 
         static void Main(string[] args)
         {
-            // TODO : passes all examples but 50pts only?
+            // TODO : passes all examples but 50pts only ?
             BigInteger number = BigInteger.Parse(Console.ReadLine());
             SaddyCopperOperation(number);
         }
