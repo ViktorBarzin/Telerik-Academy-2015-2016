@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LoverOfThree
+﻿namespace LoverOfThree
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             string rowsCols = Console.ReadLine();
             int rows = int.Parse(rowsCols.Split(' ')[0]);
@@ -22,7 +18,7 @@ namespace LoverOfThree
             bool[,] boolMatrix = new bool[rows, cols];
             FillBoolMatrix(ref boolMatrix);
 
-            //PrintMatrix(matrix);
+            // PrintMatrix(matrix);
             // Moving
             int[] currentPosition = new[] { rows-1, 0 };
         int result = 0;
@@ -48,6 +44,7 @@ namespace LoverOfThree
                                 result += matrix[currentPosition[0], currentPosition[1]];
                                 //Console.WriteLine(result);
                             }
+
                             break;
                         case "ur":
                         case "ru":
@@ -64,6 +61,7 @@ namespace LoverOfThree
                                 //Console.WriteLine(result);
 
                             }
+
                             break;
                         case "dl":
                         case "ld":
@@ -80,6 +78,7 @@ namespace LoverOfThree
                                 //Console.WriteLine(result);
 
                             }
+
                             break;
                         case "dr":
                         case "rd":
@@ -93,8 +92,8 @@ namespace LoverOfThree
                             {
                                 boolMatrix[currentPosition[0], currentPosition[1]] = false;
                                 result += matrix[currentPosition[0], currentPosition[1]];
-
                             }
+
                             break;
                     }
                 }
