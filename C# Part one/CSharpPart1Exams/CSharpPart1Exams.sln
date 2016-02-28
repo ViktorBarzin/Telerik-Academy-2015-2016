@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cube", "Cube\Cube.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaddyKopper", "SaddyKopper\SaddyKopper.csproj", "{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToNumber", "TextToNumber\TextToNumber.csproj", "{4024EC17-1468-45B5-A33B-374EA114854A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CF986FF-C26B-4F4B-AD60-7EC751C3CC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4024EC17-1468-45B5-A33B-374EA114854A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4024EC17-1468-45B5-A33B-374EA114854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4024EC17-1468-45B5-A33B-374EA114854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4024EC17-1468-45B5-A33B-374EA114854A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
