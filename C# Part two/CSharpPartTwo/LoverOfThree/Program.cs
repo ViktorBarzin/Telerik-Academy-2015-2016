@@ -6,6 +6,7 @@
     {
         private static void Main(string[] args)
         {
+            // TODO : check why bgcoder gives only 2/100
             string rowsCols = Console.ReadLine();
             int rows = int.Parse(rowsCols.Split(' ')[0]);
             int cols = int.Parse(rowsCols.Split(' ')[1]);

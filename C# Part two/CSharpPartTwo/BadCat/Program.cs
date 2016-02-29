@@ -16,10 +16,10 @@ namespace BadCat
             {
                 string command = Console.ReadLine();
                 string[] split = command.Split(' ');
-                if (res.)
-                {
+                //if (res.)
+                //{
                     
-                }
+                //}
             }
         }
     }

@@ -6,24 +6,18 @@ using System.Threading.Tasks;
 
 namespace EvenDifferences
 {
-    internal class Program
+    class Program
     {
-        private static void Main(string[] args)
+        static void Main(string[] args)
         {
-            // TODO : memory improve with biggest input; 90/100
+            // TODO : memory limit? 90/100
             string input = Console.ReadLine();
             string[] numbers = input.Split(' ');
-            List<decimal> parsedNumbers = new List<decimal>();
 
-            for (int i = 0; i < numbers.Length; i++)
-            {
-                parsedNumbers.Add(decimal.Parse(numbers[i]));
-            }
-
-            Console.WriteLine(FindSum(parsedNumbers.ToArray()));
+            Console.WriteLine(FindSum(numbers.Select(decimal.Parse).ToArray()));
         }
 
-        private static decimal FindSum(decimal[] numbers)
+        private static double FindSum(decimal[] numbers)
         {
             List<decimal> differences = new List<decimal>();
             for (int i = 1; i < numbers.Length; i += 0)
@@ -45,7 +39,7 @@ namespace EvenDifferences
                     }
                 }
             }
-            decimal result = differences.Where(num => num % 2 == 0).Sum();
+            double result = (double)differences.Where(num => num % 2 == 0).Sum();
             return result;
         }
     }
