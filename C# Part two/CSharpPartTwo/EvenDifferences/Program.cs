@@ -24,7 +24,7 @@ namespace EvenDifferences
             {
                 if ((Math.Abs(numbers[i - 1] - numbers[i])) % 2 == 0)
                 {
-                    // differences.Add(Math.Abs(numbers[i] - numbers[i - 1]));
+                    //  differences.Add(Math.Abs(numbers[i] - numbers[i - 1]));
                     differences[i - 1] = Math.Abs(numbers[i] - numbers[i - 1]);
                     if (i + 2 <= numbers.Length)
                     {
