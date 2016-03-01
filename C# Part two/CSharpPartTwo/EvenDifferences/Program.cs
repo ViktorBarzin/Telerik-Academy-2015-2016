@@ -19,7 +19,7 @@ namespace EvenDifferences
         private static double FindSum(decimal[] numbers)
         {
             decimal[] differences = new decimal[numbers.Length];
-            //List<decimal> differences = new List<decimal>();
+            // List<decimal> differences = new List<decimal>();
             for (int i = 1; i < numbers.Length; i++)
             {
                 if ((Math.Abs(numbers[i - 1] - numbers[i])) % 2 == 0)
