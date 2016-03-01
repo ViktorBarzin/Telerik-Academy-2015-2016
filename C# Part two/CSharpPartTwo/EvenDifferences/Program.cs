@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace EvenDifferences
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             string input = Console.ReadLine();
             string[] numbers = input.Split(' ');
@@ -19,12 +19,13 @@ namespace EvenDifferences
         private static double FindSum(decimal[] numbers)
         {
             decimal[] differences = new decimal[numbers.Length];
+
             //List<decimal> differences = new List<decimal>();
             for (int i = 1; i < numbers.Length; i++)
             {
                 if ((Math.Abs(numbers[i - 1] - numbers[i])) % 2 == 0)
                 {
-                    //differences.Add(Math.Abs(numbers[i] - numbers[i - 1]));
+                    // differences.Add(Math.Abs(numbers[i] - numbers[i - 1]));
                     differences[i - 1] = Math.Abs(numbers[i] - numbers[i - 1]);
                     if (i + 2 <= numbers.Length)
                     {
@@ -45,3 +46,4 @@ namespace EvenDifferences
             return result;
         }
     }
+}
