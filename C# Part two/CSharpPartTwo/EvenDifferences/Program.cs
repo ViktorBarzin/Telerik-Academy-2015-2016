@@ -37,7 +37,7 @@ namespace EvenDifferences
                     differences[i - 1] = Math.Abs(numbers[i] - numbers[i - 1]);
                     if (i + 1 <= numbers.Length)
                     {
-                        //i += 1;
+                        // i += 1;
                     }
                 }
             }
