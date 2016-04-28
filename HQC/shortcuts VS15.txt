@@ -1,0 +1,24 @@
+﻿Ctrl + . -> 				namespace import
+Ctrl + r + t ->				runs the current test
+Ctrl + r + a -> 			runs all tests
+
+Ctrl + h ->				find and replace menu (then alt + a)
+Ctrl + alt + l ->			show solution explorer
+Ctrl + u ->				toLower
+ctrl + shift + u -> 			toUpper
+ctrl + r + w ->				show white space
+
+--------------------Подготовка за изпита----------------------
+
+Ctrl e + ctrl d - formatirane
+Ctrl+ shift + b - build
+Vseki klas v otdelen file (19:50)
+Stylecop greshki(25:30)ctrl + shift +y
+Vsichki using v namespace
+Clipboard tool
+Podrejdame klasove(37:30)
+Promenlivi, konstruktori, property,
+Online diff
+Separated colorful from monoch video card ~(2:23:00)
+Unit test (2:25:0)
+Bottleneck (3:22:40)
